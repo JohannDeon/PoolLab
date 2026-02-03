@@ -3,6 +3,9 @@
 PoolLab est une application web dédiée aux passionnés de billard qui souhaitent **expérimenter de nouvelles règles** tout en automatisant le **comptage des points**.  
 Pensé pour être utilisé directement à côté de la table, PoolLab vous accompagne pendant vos parties et se charge de toute la logique de score, pour que vous puissiez vous concentrer sur le jeu.
 
+
+[Voir l'application PoolLab](https://johanndeon.github.io/PoolLab/)
+
 ---
 
 ## ✨ Présentation du projet
@@ -11,7 +14,6 @@ Pensé pour être utilisé directement à côté de la table, PoolLab vous accom
 - Support de **règles personnalisées** et de modes de jeu originaux
 - Calcul des points **automatique** et **en temps réel**
 - Interface simple, claire et agréable, utilisable sur ordinateur, tablette ou smartphone
-- Logo / favicon du projet disponible à la racine : `favicon.ico`
 
 PoolLab se veut à la fois un **outil ludique** pour jouer entre amis et un **laboratoire de règles** pour tester de nouveaux formats de jeu.
 
